@@ -1,6 +1,5 @@
 notion link:
 https://jagged-experience-12c.notion.site/TaskMaster-Quiz-79c52ce736c34617ad27ca07dde9950d?pvs=4
-figma link:
 https://www.figma.com/file/ZLdJEYvkYmm3NSupFKkTdC/Untitled?type=design&node-id=22%3A171&mode=design&t=pkO30EowWJQylpmg-1
 github link:
 https://github.com/yahyamalik398/ead-quiz/
